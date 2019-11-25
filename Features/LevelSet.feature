@@ -20,5 +20,5 @@ Feature:  Level Set
 		                When I click on the "Continue Story" button
 		                Then the game session starts 
 		                The checkpoint is loaded
-                    And the map of the last level played is generated
+                    		And the map of the last level played is generated
 		                And the character is put in it
