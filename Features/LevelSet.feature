@@ -1,6 +1,6 @@
 Feature:  Level Set
-	        As a gamer,
-	        in order to enjoy this game,
+	  As a gamer,
+	  in order to enjoy this game,
           I need to play different levels
           with ad hoc designed environments.
           The level set includes:
