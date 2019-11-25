@@ -16,6 +16,5 @@ Feature:  Hindrance
                     or the "Continue Story" buttom
                     Then the game session starts
                     And the map is generated
-                    And the hindrances are put in it in random positions
-                    chosen from a set of pre-defined positions
+                    And the hindrances are put in it
                     And the character is put in it
